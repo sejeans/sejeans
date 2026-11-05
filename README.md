@@ -1,7 +1,10 @@
 <div align="center">
 
 # 박세진 (Sejin Park)
-<div>
+
+</div>
+
+  
 ### About
 
 - 홍익대학교 산업·데이터공학과 4학년, 경영학 부전공 (2027년 2월 졸업 예정)

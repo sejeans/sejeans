@@ -42,31 +42,13 @@
 #### 📈 한국 채권시장 금리/커브/크레딧/통화정책 통합 예측 시스템
 <!-- 레포가 있으면 아래 줄의 REPO_NAME을 바꾸고 주석을 풀어주세요 -->
 <!-- [→ Repository](https://github.com/sejeans/REPO_NAME) -->
-
-- 한국은행 ECOS 오픈API로 국고채, 회사채, 기준금리 등 14개 시계열 수집 (2010~2026년, 4,123영업일)
-- Nelson-Siegel 모형으로 수익률곡선의 Level, Slope, Curvature 세 요인 추정
-- Elastic Net과 다항 로지스틱 회귀로 금리 변화와 금통위 결정 확률 예측
-- 최근 2년을 학습에서 제외한 walk-forward 방식으로 예측 성능 검증
-- 예측을 DV01 중립 포지션으로 변환하고, 거래비용을 차감한 백테스트 수행
-- 금리 전망과 리스크를 한 화면에서 확인하는 Streamlit 대시보드 구현
-
 `Python` `Pandas` `scikit-learn` `Streamlit`
 
 #### 🧮 채권 계산기/금리 민감도 분석 도구
 <!-- [→ Repository](https://github.com/sejeans/REPO_NAME) -->
-
-- 고정금리 채권의 이자와 원금 현금흐름을 생성하고, 이분법으로 YTM 역산
-- Macaulay 듀레이션, Modified 듀레이션, DV01, 컨벡시티, 키레이트 듀레이션 계산
-- 다음 이표일까지의 구간을 단리로 할인하는 국고채 관행을 복리 할인과 별도로 구현
-
 `Python`
 
 #### 🤖 업무 자동화 RPA (NICE피앤아이 인턴)
-- 나라장터 API로 당일 공고를 수집하고, 공고명을 '채권', '평가' 등의 키워드로 필터링
-- 필터링한 공고를 HTML 표로 정리해 사내 메일로 자동 발송
-- 담당자가 하루 두 번, 회당 30분씩 직접 하던 공고 모니터링 업무를 자동화
-- 인사 변동 뉴스 수집기와 금융투자협회 크롤링 RPA도 Python으로 제작
-
 `Python` `Open API` `Web Crawling`
 
 #### 🔧 자율주행 전기차 모터-감속기 이상 탐지 경량화(졸업 프로젝트)

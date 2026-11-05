@@ -2,11 +2,6 @@
 
 # 박세진 (Sejin Park)
 
-[![Email](https://img.shields.io/badge/Email-psejin23%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:psejin23@gmail.com)
-
-</div>
-
-
 ### About
 
 - 홍익대학교 산업·데이터공학과 4학년, 경영학 부전공 (2027년 2월 졸업 예정)

@@ -37,25 +37,6 @@
 ![Backtesting](https://img.shields.io/badge/Backtesting-0F766E?style=flat-square)
 ---
 
-### Projects
-
-#### 📈 한국 채권시장 금리/커브/크레딧/통화정책 통합 예측 시스템
-<!-- 레포가 있으면 아래 줄의 REPO_NAME을 바꾸고 주석을 풀어주세요 -->
-<!-- [→ Repository](https://github.com/sejeans/REPO_NAME) -->
-`Python` `Pandas` `scikit-learn` `Streamlit`
-
-#### 🧮 채권 계산기/금리 민감도 분석 도구
-<!-- [→ Repository](https://github.com/sejeans/REPO_NAME) -->
-`Python`
-
-#### 🤖 업무 자동화 RPA (NICE피앤아이 인턴)
-`Python` `Open API` `Web Crawling`
-
-#### 🔧 자율주행 전기차 모터-감속기 이상 탐지 경량화(졸업 프로젝트)
-[→ Repository](https://github.com/sejeans/motor-reducer-archive)
-
----
-
 ### Activities
 
 - **인공지능 동아리 MATRIX** 운영

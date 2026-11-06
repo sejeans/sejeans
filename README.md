@@ -4,7 +4,8 @@
 
 </div>
 
-  
+  <img width="540" height="282" alt="mai-sakurajima-holding-hands-on-machine-learning" src="https://github.com/user-attachments/assets/d54fde32-cd97-4302-bb1e-50ff0bdf1fc1" />
+
 ### About
 
 - 홍익대학교 산업·데이터공학과 4학년, 경영학 부전공 (2027년 2월 졸업 예정)

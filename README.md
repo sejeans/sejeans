@@ -4,7 +4,7 @@
 
 </div>
 
-  <img width="540" height="282" alt="mai-sakurajima-holding-hands-on-machine-learning" src="https://github.com/user-attachments/assets/d54fde32-cd97-4302-bb1e-50ff0bdf1fc1" />
+  <img width="270" height="141" alt="mai-sakurajima-holding-hands-on-machine-learning" src="https://github.com/user-attachments/assets/d54fde32-cd97-4302-bb1e-50ff0bdf1fc1" />
 
 ### About
 
